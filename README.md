@@ -1,2 +1,0 @@
-# QuizLiftOff
-Created with CodeSandbox
